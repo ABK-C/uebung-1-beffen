@@ -9,7 +9,6 @@ ifstream fin1("datensumme.txt");
 ifstream fin2("datensumme.txt");
 double summand = 0;
 
-
 for(double n=1; n<=234; ++n) {
   double a_n;
   fin1 >> a_n;
